@@ -2,6 +2,7 @@
 
 SQL practice note
 1. Leetcode
-  262
+   262 Trips and Users
+   
 2. Hackerrank
 3. SQLzoo
