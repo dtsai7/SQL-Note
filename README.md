@@ -10,7 +10,7 @@
 - Window Functions
 - Common Table Expression
 
-### Resources:
+### Resources
 [SQLZOO](https://sqlzoo.net/)
 
 [Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
