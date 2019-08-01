@@ -1,4 +1,4 @@
-# SQL_practice_note
+# SQL practice note
 
 ### Leetcode 
 - [185.Department Top Three Salaries](https://github.com/dtsai7/SQL_practice_note/blob/master/Leetcode185.Department_Top_Three_Salaries.sql)
