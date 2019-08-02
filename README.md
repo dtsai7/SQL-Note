@@ -7,6 +7,10 @@
 
 ### Important Concepts
 - Nested Queries
+  - ALL: Must satisfy expression for all rows in subquery
+  - ANY: Must satisfy expression for at least one row in subquery
+  - IN: Equivalent to "=ANY()"
+  - EXISTS: At lease one row is returned
 - Window Functions
 - Common Table Expression
 
