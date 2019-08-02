@@ -18,10 +18,6 @@
 - Common Table Expression
   - Think of it like a temp table for one query
   - Alternative to nested queries and views
-    WITH cteName AS (
-      SELECT 1
-    )
-    SELECT * FROM cteName
   - Bind output columns to names before the AS keyword
 
 ### Practice
