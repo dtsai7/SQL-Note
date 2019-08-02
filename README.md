@@ -11,8 +11,19 @@
   - ANY: Must satisfy expression for at least one row in subquery
   - IN: Equivalent to "=ANY()"
   - EXISTS: At lease one row is returned
+  
 - Window Functions
+  - Perform a calculation across a set of tuples that related to a single row
+  - SELECT ... FUNC-NAME(...)OVER(...) FROM TableName
+  - Aggregate Functions
+  - Special Windown Functions:
+    - ROW_NUMBER()
+    - RANK()
+  
 - Common Table Expression
+  - Think of it like a temp table for one query
+  - Alternative to nested queries and views
+  - Bind output columns to names before the AS keyword
 
 ### Resources
 [SQLZOO](https://sqlzoo.net/)
