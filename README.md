@@ -14,7 +14,7 @@
   
 - Window Functions
   - Perform a calculation across a set of tuples that related to a single row
-  - SELECT ... FUNC-NAME(...)OVER(...) FROM TableName
+  - SELECT ... FUNC-NAME(...) OVER(...) FROM TableName
   - Aggregate Functions
   - Special Windown Functions:
     - ROW_NUMBER()
