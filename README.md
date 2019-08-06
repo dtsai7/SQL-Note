@@ -11,10 +11,15 @@
 - Window Functions
   - Perform a calculation across a set of tuples that related to a single row
   - SELECT ... FUNC-NAME(...) OVER(...) FROM TableName
-  - Aggregate Functions
-  - Special Windown Functions:
-    - ROW_NUMBER()
-    - RANK()
+  - Functions:
+    - Aggregate Functions
+    - Special Windown Functions:
+      - ROW_NUMBER()
+      - RANK()
+  - Grouping: The OVER clause specifies how to group together tuples when computing the window function
+              Use PARTITION BY to specify group
+  
+  
   
 - Common Table Expressions (CTE)
   - Think of it like a temp table for one query
