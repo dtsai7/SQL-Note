@@ -16,10 +16,11 @@
     - ROW_NUMBER()
     - RANK()
   
-- Common Table Expression
+- Common Table Expressions (CTE)
   - Think of it like a temp table for one query
   - Alternative to nested queries and views
   - Bind output columns to names before the AS keyword
+  - A single query can contain multiple CTE declarations
 
 ### Practice
 #### Leetcode
