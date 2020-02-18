@@ -34,6 +34,7 @@
 - [595. Big Countries](https://github.com/dtsai7/SQL_practice_note/blob/master/Leetcode595.Big_Countries.sql)
 - [569. Median Employee Salary](https://github.com/dtsai7/SQL-Note/blob/master/Leetcode%20569.Median%20Employee%20Salary.sql)
   - without built-in SQL functions?
+- [601. Human Traffic of Stadium](https://github.com/dtsai7/SQL-Note/blob/master/Leetcode601.Human%20Traffic%20of%20Stadium.sql)
 
 ### Resources
 [SQLZOO](https://sqlzoo.net/)
