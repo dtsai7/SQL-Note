@@ -26,6 +26,7 @@
   - Alternative to nested queries and views
   - Bind output columns to names before the AS keyword
   - A single query can contain multiple CTE declarations
+  
 
 ### Practice
 #### Leetcode
@@ -36,6 +37,15 @@
 - [569. Median Employee Salary](https://github.com/dtsai7/SQL-Note/blob/master/Leetcode/Leetcode%20569.Median%20Employee%20Salary.sql)
   - without built-in SQL functions?
 - [601. Human Traffic of Stadium](https://github.com/dtsai7/SQL-Note/blob/master/Leetcode/Leetcode601.Human%20Traffic%20of%20Stadium.sql)
+
+### Common Interview Questions
+- What are the different types of SQL commands? Explain the DDL/DCL commands in SQL?
+- What is the difference between Cluster and Non-Cluster Index?
+- the use of UNION and UNION ALL in SQL?
+- What is the difference between DELETE and TRUNCATE?
+- What is a join? types of Join?
+- How to test for NULL values?
+- What is Normalization? What are all the different Normalization?
 
 ### Resources
 [SQLZOO](https://sqlzoo.net/)
